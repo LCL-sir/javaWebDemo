@@ -4,12 +4,14 @@
     <file type="web" url="file://$PROJECT_DIR$/filter" />
     <file type="web" url="file://$PROJECT_DIR$/filterDemo" />
     <file type="web" url="file://$PROJECT_DIR$/guolvqi" />
+    <file type="web" url="file://$PROJECT_DIR$/JDBC" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/filter/pom.xml" />
         <option value="$PROJECT_DIR$/filterDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/JDBC/pom.xml" />
       </list>
     </option>
   </component>

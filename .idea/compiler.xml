@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="filterDemo" />
+        <module name="JDBC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -14,6 +15,7 @@
       <module name="filterDemo" target="1.8" />
       <module name="guolvqi" target="1.8" />
       <module name="guolvqi (1)" target="1.8" />
+      <module name="JDBC" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
